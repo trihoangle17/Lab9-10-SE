@@ -1,0 +1,6 @@
+Operation,A,B,Expected
+Add,1,2,3
+Add,-1,-2,-3
+Subtract,5,3,2
+Multiply,-2,-3,6
+Divide,6,3,2

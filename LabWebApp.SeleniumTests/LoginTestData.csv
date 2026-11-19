@@ -1,0 +1,4 @@
+Username,Password,ExpectedMessage
+student,123456,Login successful
+student,wrong,Invalid username or password
+unknown,123456,Invalid username or password
